@@ -109,11 +109,10 @@
 <picture>
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
 </picture>
-</a> &nbsp;
-<div align="center"> 
-  <a href="mailto:cchaudha@gmu.edu">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+</a> &nbsp; 
+<a href="mailto:cchaudha@gmu.edu">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+ </a>
 
 
 
