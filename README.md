@@ -110,15 +110,15 @@
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
 </picture>
 </a> &nbsp;
-
-
-
-
-
 <div align="center"> 
   <a href="mailto:cchaudha@gmu.edu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+
+
+
+
+
 <!--   <a href="https://www.linkedin.com/in/chaitanya9370" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -127,11 +127,11 @@
   </a>
 </div> -->
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <br/>
-<div align="center">
+<!-- <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,react,nodejs,mongodb,express,flask,django,vscode,github,git,postman,MySQL" /><br>
-</div>
+</div> -->
 
 
 
