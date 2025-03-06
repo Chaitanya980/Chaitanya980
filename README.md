@@ -17,7 +17,7 @@
 
 - 💻 Passionate about **full-stack development with the MERN stack**, creating dynamic end-to-end web solutions.
 
-- - 🔭 I'm currently working on My Portfolio
+- 🔭 I'm currently working on My Portfolio
 
 <br/>
 ### Skills
