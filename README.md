@@ -15,7 +15,7 @@
 
 - 🖥️ Dedicated to mastering **Data Structures and Algorithms**, actively working on the **NeetCode 150** problem set to sharpen my problem-solving abilities.
 
-- 💻 Passionate about **full-stack development with the MERN stack**, creating dynamic end-to-end web solutions.
+- 💻 Keenly interested in cloud technologies, leveraging their power to build scalable and efficient web solutions from end to end.
 
 - 🔭 I'm currently working on My Portfolio
 
