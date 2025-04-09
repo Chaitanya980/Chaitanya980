@@ -20,7 +20,8 @@
 - 🔭 I'm currently working on My Portfolio
 
 <br/>
-### Skills
+
+### Skills:
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/c-colored.svg" alt="C" />
@@ -97,6 +98,21 @@
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" />
 </picture></a> &nbsp;
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chaitanya980&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya980&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya980&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 ### Social
 
