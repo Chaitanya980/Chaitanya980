@@ -13,7 +13,7 @@
 
 - 🌱 Currently enhancing my skills in **Amazon Web Services(AWS),SpringBoot, DevOps**.
 
-- 🖥️ Dedicated to mastering **Data Structures and Algorithms**, actively working on the **NeetCode 150** problem set to sharpen my problem-solving abilities.
+- 🖥️ Dedicated to mastering **Data Structures and Algorithms**, actively working on the **NeetCode 150** problem set to sharpen my problem solving abilities.
 
 - 💻 Keenly interested in cloud technologies, leveraging their power to build scalable and efficient web solutions from end to end.
 
