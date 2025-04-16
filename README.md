@@ -108,9 +108,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya980&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya980&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
