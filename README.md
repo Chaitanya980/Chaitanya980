@@ -17,7 +17,7 @@
 
 - 💻 Keenly interested in cloud technologies, leveraging their power to build scalable and efficient web solutions from end to end.
 
-- 🔭 I'm currently working on My Portfolio
+- 🔭 Bringing humor to the terminal and beyond.
 
 <br/>
 
