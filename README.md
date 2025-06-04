@@ -11,6 +11,8 @@
 
 - 🎓 Pursuing a **Master's in Computer Science** at George Mason University, expected to graduate in May 2026.
 
+- 💻 Love to learn new technologies and new sets of areas.
+
 - 🌱 Currently enhancing my skills in ** AI/ML,Amazon Web Services(AWS),SpringBoot, DevOps**.
 
 - 🖥️ Dedicated to mastering **Data Structures and Algorithms**, actively working on the **NeetCode 150** problem set to sharpen my problem solving abilities.
@@ -18,6 +20,8 @@
 - 💻 Keenly interested in cloud technologies, leveraging their power to build scalable and efficient web solutions from end to end.
 
 - 🔭 Bringing humor to the terminal and beyond.
+
+
 
 <br/>
 
