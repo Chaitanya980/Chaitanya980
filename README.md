@@ -13,7 +13,7 @@
 
 - 💻 Love to learn new technologies and new sets of areas.
 
-- 🌱 Currently enhancing my skills in ** AI/ML,Amazon Web Services(AWS),SpringBoot, DevOps**.
+- 🌱 Currently enhancing my skills in ** AI/ML,Go, DevOps**.
 
 - 🖥️ Dedicated to mastering **Data Structures and Algorithms**, actively working on the **NeetCode 150** problem set to sharpen my problem solving abilities.
 
