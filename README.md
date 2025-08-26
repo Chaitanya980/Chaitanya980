@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chaitanya+Chaudhari;" />
 </h1>
 
-<h3 align="center" style="color: red;"> 🔭 I'm looking for Summer 2025 Software Intern roles</h3>
+<!--<h3 align="center" style="color: red;"> 🔭 I'm looking for Summer 2025 Software Intern roles</h3> -->
 
 
 ### About Me:
